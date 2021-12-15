@@ -1,0 +1,34 @@
+.card {
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+    width: 60%;
+    min-height: 57vh;
+    margin-left: 20%;
+    transform: translate(0%, -45%);
+    /* opacity: 0.1; */
+    box-shadow: 0 4px 8px 0 gray, 0 6px 20px 0 black;
+    overflow: hidden;
+}
+
+h2{
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.back-button {
+    background-color: #1890FF;
+    border-color: white;
+    text-align: center;
+    border-radius: 5px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.app-header-logo {
+    display: block;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+}
